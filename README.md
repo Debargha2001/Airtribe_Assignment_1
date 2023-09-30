@@ -115,7 +115,7 @@ This API allows you to manage tasks with various functionalities like creating, 
     - `success`: True if there is no error and false if there is an error.
     - `data`: Contains the actual data related to tasks (for a success response only).
 
-   **Example Request Body:**
+   **Example Response Body:**
 
     ```json
     {
